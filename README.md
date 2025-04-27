@@ -32,7 +32,9 @@ It is built using PyTorch Lightning and covers both theoretical background and p
 
 ## 🧩 Project Structure
 ├── Attention.ipynb # Main notebook 
+
 ├── README.md # Project description 
+
 └── requirements.txt #  Python libraries to install
 
 ## 🏃‍♂️ Quickstart
