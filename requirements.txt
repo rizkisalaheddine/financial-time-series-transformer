@@ -1,0 +1,9 @@
+torch>=1.13
+torchvision
+pytorch-lightning>=2.0
+scikit-learn
+yfinance
+wandb
+matplotlib
+numpy
+pandas
