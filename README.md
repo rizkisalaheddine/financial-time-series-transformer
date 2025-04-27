@@ -31,7 +31,7 @@ It is built using PyTorch Lightning and covers both theoretical background and p
 - Gold (`GC=F`)
 
 ## 🧩 Project Structure
-├── transformer_time_series.ipynb # Main notebook 
+├── Attention.ipynb # Main notebook 
 
 ├── README.md # Project description 
 
