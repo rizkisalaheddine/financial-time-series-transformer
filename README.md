@@ -40,8 +40,8 @@ It is built using PyTorch Lightning and covers both theoretical background and p
 ## 🏃‍♂️ Quickstart
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rizkisalaheddinefinancial-time-series-transformer.git
+cd financial-time-series-transformer
 ```
 ## Install dependencies:
 ```bash
